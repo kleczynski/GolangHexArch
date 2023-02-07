@@ -1,7 +1,7 @@
 
 # Go Hexagolan Architecture
 
-A project demonstrating the use of pure arcitecture in the Golang language using a hexagonal structure. This is a design pattern using encapsulation of the application core with an application API. We add left and right sides to the API part
+A project demonstrating the use of pure architecture in the Golang language using a hexagonal structure. This is a design pattern using encapsulation of the application core with an application API. We add left and right sides to the API part
 
 The right side to be responsible for applications that are part of the application such as a database, cloud solution provider. 
 
