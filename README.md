@@ -9,7 +9,7 @@ The left side is responsible for the user interaction and it is the user who cal
 
 Below is a picture showing an overview of the application built in hexagonal architecture
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kleczynski/GolangHexArch/blob/main/images/hexarch.png)
 
 On the left-hand side of the project is the system responsible for the fastest communication currently possible in the systems. The gRPC system. On the right we have a database whose operation will be imposed by user interaction 
 
@@ -20,4 +20,4 @@ In the project, in the section responsible for communications, there is a file w
 
 Using command ```docker-compose -d up``` aplication will be build and entire test for communication will be run. In docker we should see logs same as on the picture belowe. 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kleczynski/GolangHexArch/blob/main/images/testimage.png)
